@@ -1,0 +1,6 @@
+spectral_index,pct_expected_sign,pct_sig_expected,median_series_t,median_channel_t,channels_sig_holm,median_R2,effect_size_dz
+RMS,90,86.6667,9.58784,4.77479,7,0.453236,1.08394
+MDF,85,60,2.86445,3.32577,6,0.0874382,0.863693
+MDF (notch-excluded),70.8333,50.8333,2.02041,2.47361,3,0.0651169,0.564899
+log SMR,72.5,52.5,2.44985,2.68722,3,0.0719571,0.561223
+log L/H,87.5,68.3333,3.66754,4.36184,6,0.104349,0.992505

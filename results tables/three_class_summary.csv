@@ -1,0 +1,10 @@
+feature_set,model,acc_mean,acc_sd,bacc_mean,macro_f1
+Core,Logistic Regression,0.542857,0.185374,0.561206,0.499638
+Core,Random Forest,0.634694,0.153071,0.645726,0.609023
+Core,Gradient Boosting,0.595238,0.134084,0.608974,0.565739
+Spectral-index,Logistic Regression,0.561224,0.170223,0.57716,0.512645
+Spectral-index,Random Forest,0.683673,0.150068,0.692545,0.667461
+Spectral-index,Gradient Boosting,0.630612,0.136804,0.647721,0.595566
+Combined,Logistic Regression,0.532653,0.177504,0.550997,0.482058
+Combined,Random Forest,0.673469,0.153013,0.684473,0.65543
+Combined,Gradient Boosting,0.608163,0.118987,0.625926,0.569534

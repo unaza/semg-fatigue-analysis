@@ -1,0 +1,11 @@
+Feature set,Model,Accuracy,Accuracy SD,Accuracy 95% CI low,Accuracy 95% CI high,Balanced accuracy,F1,AUC
+Core (16 features),Logistic Regression,0.633,0.208,0.537,0.741,0.624,0.59,0.983
+Core (16 features),Random Forest,0.725,0.206,0.622,0.827,0.704,0.721,0.986
+Core (16 features),Gradient Boosting,0.717,0.165,0.635,0.798,0.698,0.734,0.959
+Spectral-index (32 features),Logistic Regression,0.643,0.199,0.549,0.746,0.633,0.607,0.991
+Spectral-index (32 features),Random Forest,0.752,0.201,0.652,0.849,0.739,0.751,0.98
+Spectral-index (32 features),Gradient Boosting,0.756,0.171,0.668,0.838,0.738,0.776,0.975
+Combined (64 features),Logistic Regression,0.638,0.205,0.543,0.744,0.63,0.596,0.995
+Combined (64 features),Random Forest,0.737,0.225,0.625,0.844,0.725,0.713,0.992
+Combined (64 features),Gradient Boosting,0.719,0.181,0.63,0.806,0.707,0.715,0.981
+"MDF-only (channel mean, 1 feature)",Logistic Regression (single feature),0.714,0.2,0.617,0.811,0.668,0.737,0.939

@@ -1,0 +1,3 @@
+signal,pct_piecewise_beats_linear,pct_exponential_beats_linear,pct_best_nonlinear,median_R2_linear,median_R2_piecewise,median_R2_exponential,pct_valid_onset,onset_median_s,onset_q25,onset_q75
+MDF,37.5,15,40,0.0874382,0.143227,0.108231,27.5,56,43,79
+RMS,73.3333,24.1667,74.1667,0.453236,0.546928,0.499625,38.3333,74,39.75,95.5

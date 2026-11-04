@@ -1,0 +1,13 @@
+comparison,mean_diff,p_wilcoxon,subjects_better,subjects_worse,p_holm
+Logistic Regression: Spectral-index vs Core,0.015873,0.483303,4,4,1
+Logistic Regression: Combined vs Core,0.0460317,0.0903917,6,1,0.632742
+Logistic Regression: normalized vs raw (Core),0.24127,0.00220034,12,0,0.0242037
+Logistic Regression: Core vs MDF-only reference,0.0793651,0.157939,8,4,0.789697
+Random Forest: Spectral-index vs Core,0.0142857,0.10719,6,2,0.643138
+Random Forest: Combined vs Core,0.0047619,0.755123,5,4,1
+Random Forest: normalized vs raw (Core),0.215873,0.00220902,12,0,0.0242037
+Random Forest: Core vs MDF-only reference,0.146032,0.00865154,10,3,0.0778639
+Gradient Boosting: Spectral-index vs Core,-0.0031746,0.68028,2,3,1
+Gradient Boosting: Combined vs Core,7.40149e-18,0.596113,2,4,1
+Gradient Boosting: normalized vs raw (Core),0.21746,0.000801354,14,1,0.00961624
+Gradient Boosting: Core vs MDF-only reference,0.139683,0.0156505,9,4,0.125204
