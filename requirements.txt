@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyter
+h5py      # only needed if the .mat file is in MATLAB v7.3 (HDF5) format
+openpyxl  # optional: enables the key_tables.xlsx export
